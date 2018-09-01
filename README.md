@@ -9,7 +9,7 @@
 ![Screenshot](files/in.action.gif)
 
 #### QUIET MODE
-![Screenshot](files/in.action.gif)
+![Screenshot](files/quiet-mode.gif)
 
 #### VERSON 1.0 (OLD)
 ![Screenshot](files/warchiver.gif)
