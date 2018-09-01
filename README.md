@@ -6,7 +6,7 @@
 ![Screenshot](files/warchiver-1.2-preview.gif)
 
 #### IN ACTION
-![Screenshot](files/warchiver-1.2.gif)
+![Screenshot](files/in.action.gif)
 
 #### VERSON 1.0 (OLD)
 ![Screenshot](files/warchiver.gif)
