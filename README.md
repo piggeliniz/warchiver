@@ -1,5 +1,14 @@
 # WARCHIVER
 
+#### Version 2.0
+
+#### PREVIEW
+![Screenshot](files/warchiver-1.2-preview.gif)
+
+#### IN ACTION
+![Screenshot](files/warchiver-1.2.gif)
+
+#### VERSON 1.0 (OLD)
 ![Screenshot](files/warchiver.gif)
 
 #### README
