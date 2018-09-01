@@ -8,6 +8,9 @@
 #### IN ACTION
 ![Screenshot](files/in.action.gif)
 
+#### QUIET MODE
+![Screenshot](files/in.action.gif)
+
 #### VERSON 1.0 (OLD)
 ![Screenshot](files/warchiver.gif)
 
